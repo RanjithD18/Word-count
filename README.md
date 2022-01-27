@@ -31,7 +31,7 @@ print("Number of words={}".format(num_words))
 
 
 ### OUTPUT:
-![output]()
+![output](https://github.com/RanjithD18/Word-count/blob/main/Screenshot%20(78).png)
 
 
 ## RESULT:
