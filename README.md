@@ -6,17 +6,17 @@ PC
 Anaconda - Python 3.7
 ## ALGORITHM: 
 ### Step 1:
-
+Get the string from user
 ### Step 2: 
- 
+count will check repeated words in given string
 ### Step 3: 
-
+use split() to split the string
 ### Step 4:  
-
+now check every word in string
 ### Step 5: 
-
+print the count
 ### Step 6: 
-
+End the program
 ## PROGRAM:
 ~~~
 # Developed by : Ranjith D
